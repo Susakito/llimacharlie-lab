@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <b>This repository demonstrates how to utilize LimaCharlie, a powerful endpoint security platform, to monitor and analyze payloads using two virtual machines (Mint and Ubuntu Server 22.04.1). By leveraging LimaCharlie's advanced features and capabilities, you can effectively monitor the behavior of payloads in a secure and controlled environment.</b>
+  <b>This repository demonstrates how to utilize LimaCharlie as a SIEM, a powerful endpoint security platform, to monitor and analyze payloads using two virtual machines (Mint and Ubuntu Server 22.04.1). By leveraging LimaCharlie's advanced features and capabilities, you can effectively monitor the behavior of payloads in a secure and controlled environment.</b>
 </p>
 
 <p align="center">
