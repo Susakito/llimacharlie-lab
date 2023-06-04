@@ -78,10 +78,33 @@ SLIVER
 ![image](https://github.com/Susakito/llimacharlie-lab/assets/75007981/68e74834-cb8b-4706-8f86-538da6871ce0)
 ![image](https://github.com/Susakito/llimacharlie-lab/assets/75007981/c7a01e04-be31-4a8f-8c27-1dacfb37a17c)
 
+PART2
+![image](https://github.com/Susakito/llimacharlie-lab/assets/75007981/63ca67e7-782a-464f-a093-25f8775f842d)
+![image](https://github.com/Susakito/llimacharlie-lab/assets/75007981/f0b43c0e-355d-4457-8a82-7dac413152ad)
+</br>
+
+sliver windows paylaod
+![image](https://github.com/Susakito/llimacharlie-lab/assets/75007981/aad6a1f8-3d83-4ccb-8a82-e8db899c7a50)
+![image](https://github.com/Susakito/llimacharlie-lab/assets/75007981/2e3a79ae-a4cd-4967-90d7-e56b71fda5c9)
+![image](https://github.com/Susakito/llimacharlie-lab/assets/75007981/3527ce96-d2ed-4a02-93a8-d0c39cca190d)
+![image](https://github.com/Susakito/llimacharlie-lab/assets/75007981/3fece686-83d3-453c-a3ca-c886ba53f6cb)
+![image](https://github.com/Susakito/llimacharlie-lab/assets/75007981/bb9ad550-3e39-4757-b92d-9d12941f0e5a)
+</br>
+
+sliver linux payload
+![image](https://github.com/Susakito/llimacharlie-lab/assets/75007981/a593b24d-eda7-4b14-ada4-104754acbe27)
+![image](https://github.com/Susakito/llimacharlie-lab/assets/75007981/ac945dad-a7dd-4b1b-89c9-4e3c885306dc)
+![image](https://github.com/Susakito/llimacharlie-lab/assets/75007981/9ff02467-5fee-426b-a63e-26efdd3e9d48)
+![image](https://github.com/Susakito/llimacharlie-lab/assets/75007981/c94a2239-7366-4e46-93a3-920bf51f624d)
+![image](https://github.com/Susakito/llimacharlie-lab/assets/75007981/ac169f6f-4a87-47d6-a4d8-bbc474494002)
+
+![image](https://github.com/Susakito/llimacharlie-lab/assets/75007981/a7638df1-7ed9-46b7-b5e5-33ec65ed4925)
+![image](https://github.com/Susakito/llimacharlie-lab/assets/75007981/255d2bac-0721-426e-8863-5896ec7987f6)
 
 
 
-<h1>Mint OS</h1>
+
+
 
 
 
