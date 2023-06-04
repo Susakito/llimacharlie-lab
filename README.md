@@ -7,22 +7,18 @@
 
 
 <p align="center">
-  <a href="#installation">Installation</a> •
-  <a href="#limacharlie">Limacharlie</a> •
-  <a href="#usage">Usage</a> •
-  <a href="#contributing">Contributing</a> •
-  <a href="#license">License</a>
+  <a href="https://limacharlie.io)">Limacharlie</a> •
+  <a href="https://github.com/BishopFox/sliver">Sliver</a> •
+  <a href="https://linuxmint.com">Mint OS</a> 
 </p>
 
 
-## About
+<h1> About</h1>
 <p>This repository demonstrates how to utilize LimaCharlie as a SIEM, a powerful endpoint security platform, to monitor and analyze payloads using two virtual machines (Mint and Ubuntu Server 22.04.1). By leveraging LimaCharlie's advanced features and capabilities, you can effectively monitor the behavior of payloads in a secure and controlled environment.</p>
 
 
-### Installation
 
 <h1>Installing Limacharlie on Blue Team</h1>
-
 ![image](https://github.com/Susakito/llimacharlie-lab/assets/75007981/c47bfd47-8054-4828-b9a1-f6dad420f039)
 <p>Create a organization</p>
 
@@ -52,6 +48,8 @@
 ![image](https://github.com/Susakito/llimacharlie-lab/assets/75007981/fa62c934-3a7a-471d-90ef-f0e61fcb923d)
 ![image](https://github.com/Susakito/llimacharlie-lab/assets/75007981/dd0e4367-8455-4528-b9c6-43cc13f0dbce)
 ![image](https://github.com/Susakito/llimacharlie-lab/assets/75007981/12786c30-7030-4975-a919-480dd4b7e1f3)
+  
+
 
 UBUNTU
 SYSMON
