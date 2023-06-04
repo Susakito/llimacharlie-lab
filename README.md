@@ -8,6 +8,7 @@
 
 <p align="center">
   <a href="#installation">Installation</a> •
+  <a href="#limacharlie">Limacharlie</a> •
   <a href="#usage">Usage</a> •
   <a href="#contributing">Contributing</a> •
   <a href="#license">License</a>
@@ -28,12 +29,9 @@
 <p>This repository demonstrates how to utilize LimaCharlie as a SIEM, a powerful endpoint security platform, to monitor and analyze payloads using two virtual machines (Mint and Ubuntu Server 22.04.1). By leveraging LimaCharlie's advanced features and capabilities, you can effectively monitor the behavior of payloads in a secure and controlled environment.</p>
 
 
-
-
-## Getting Started
-
 ### Installation
 
+###Limacharlie
 <h1>Limacharlie</h1>
 
 ![image](https://github.com/Susakito/llimacharlie-lab/assets/75007981/c47bfd47-8054-4828-b9a1-f6dad420f039)
@@ -176,8 +174,6 @@ shell is killed
 rule is detected
 
 
-![image](https://github.com/Susakito/llimacharlie-lab/assets/75007981/8b7072fd-ccc0-4760-883d-965b3ef81608)
-logo image is present before removal
 
 
 
