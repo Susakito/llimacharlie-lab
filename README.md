@@ -1,4 +1,4 @@
-<h1 align="center">Limacharlie</h1>
+<h1 align="center">Limacharlie (IN PROGRESS)</h1>
 
 <p align="center">
   <img src="path/to/project-logo.png" alt="Project Logo" width="200" height="200">
@@ -173,5 +173,4 @@ SYSMON
 ![image](https://github.com/Susakito/llimacharlie-lab/assets/75007981/797e7fbf-148a-4335-8054-6e6aad35b14a)
 ////////////////
 
-```shell
-$ npm install
+
